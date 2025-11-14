@@ -24,9 +24,9 @@ I'm a data scientist with a strong foundation in **Python, R, SQL, and SAS**, an
 
 Here are a few of my favorite projects. Each one demonstrates end-to-end data work — from cleaning and modeling to visualization and interpretation:
 
-- 🧩 [Telco Customer Churn Analysis]() — Developed and interpreted a **Logistic Regression** model in R to predict and identify key drivers of customer attrition.  
+- 🧩 [Telco Customer Churn Analysis](https://github.com/Akinsanola/Telco-Customer-Churn-) — Developed and interpreted a **Logistic Regression** model in R to predict and identify key drivers of customer attrition.  
 - 🍽️ [USDA Food Data Analytics]() — Built a scalable data ecosystem using **PostgreSQL**.
-- 💳 [Credit Card Fraud Detection]() — Used **Random Forest and SMOTE** in Python to build a high-accuracy fraud detection model. 
+- 💳 [Credit Card Fraud Detection](https://github.com/Akinsanola/Credit-Card-Fraud-Detection) — Used **Random Forest and SMOTE** in Python to build a high-accuracy fraud detection model. 
 - 🚗 [Car Price Prediction]() — Applied advanced **Regression Modeling and Feature Engineering** techniques using both R.  
 - 🦠 [COVID-19 vs Arrest Records Analysis]() — Conducted public data correlation and visualization in R to analyze societal trends during the pandemic.
 - 🍕 [Restaurant Database Management System]() — Designed a dual **SQL** architecture for efficient restaurant operational data management.
