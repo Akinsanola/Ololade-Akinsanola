@@ -1,5 +1,5 @@
 # 👋🏽 Hi, I'm Ololade Akinsanola  
-🎓 Data Science Graduate Student | 💡 Analytics & Machine Learning Enthusiast | 📍 Chicago, IL  
+🎓 Data Scientist | 💡 Data Science, Data Analytics & Machine Learning Enthusiast | 📍 Chicago, IL  
 
 ---
 
