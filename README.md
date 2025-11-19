@@ -46,8 +46,8 @@ Implemented a Random Forest model with SMOTE in Python to reduce false negatives
 
 ---
 
-### 🚗 Car Price Prediction — *In Progress*  
-📌 *Notebook and final report uploading soon.*  
+### 🚗 Car Price Prediction — *Completed*  
+**GitHub:** https://github.com/Akinsanola/Car-Price-Prediction
 Applied regression modeling and feature engineering in R to predict car prices based on vehicle attributes.
 
 ---
