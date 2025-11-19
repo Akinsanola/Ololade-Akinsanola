@@ -65,8 +65,7 @@ Designed a dual database system using PostgreSQL and MongoDB to manage both tran
 ---
 
 ## 🎯 Current Focus  
-- Expanding my GitHub portfolio with end-to-end data science projects  
-- Learning deployment tools (Streamlit, Power BI dashboards)  
+- Expanding my GitHub portfolio with end-to-end data science projects   
 - Preparing for upcoming data science and analytics interviews  
 
 ---
